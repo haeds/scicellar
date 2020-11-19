@@ -73,25 +73,25 @@ export default function Home() {
                   href="/"
                   className="px-3 py-2 rounded-md text-sm font-medium text-white bg-gray-900"
                 >
-                  Dashboard
+                  Главная
                 </a>
                 <a
                   href="/"
                   className="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700"
                 >
-                  Team
+                  Нутрициология
                 </a>
                 <a
                   href="/"
                   className="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700"
                 >
-                  Projects
+                  Физиология
                 </a>
                 <a
                   href="/"
                   className="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700"
                 >
-                  Calendar
+                  Медицина
                 </a>
               </div>
             </div>
